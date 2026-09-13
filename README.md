@@ -4,7 +4,7 @@ This repo contains verilog code for an asynchronous FIFO.
 
    
 ## Author
-[PRANAV MAHAJAN](www.linkedin.com/in/pranav2205), MS (Research) EE 2025-27, IIT Indore
+[PRANAV MAHAJAN](https://www.linkedin.com/in/pranav2205 ), MS (Research) EE 2025-27, IIT Indore
 
 ## Introduction
 
